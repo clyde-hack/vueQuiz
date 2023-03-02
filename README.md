@@ -1,6 +1,6 @@
 # vuequiz
 
-This template should help get you started developing with Vue 3 in Vite.
+The quiz is built using VUE3, with a Vite build tool. It demonstartes a knowledge of componenets, routing, state management and passing data between parent and child componenets.
 
 ## Recommended IDE Setup
 
